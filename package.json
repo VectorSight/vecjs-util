@@ -1,0 +1,13 @@
+{
+  "name": "@vecjs/util",
+  "version": "0.0.1",
+  "description": "universal javascript utility for our projects",
+  "main": "lib/index.js",
+  "repository": "https://github.com/VectorSight/vecjs-util",
+  "author": "Plutonist <p@vecsight.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^12.0.2",
+    "typescript": "^3.4.5"
+  }
+}
